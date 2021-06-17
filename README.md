@@ -24,6 +24,7 @@ The analysis will be restricted to:
 The goal of the exercise isn't to produce a perfect analysis: you only have a few hours! Rather, the aim is to produce an analysis illustrated through 2-4 figures that can be reproduced and understood by others. Things that you may want to consider:
 
 - Creating a Github repository with a navigable structure
+- Avoiding any direct modification of raw data
 - Creating a directed acyclic graph (perhaps using Makefiles) that shows how your analysis was produced
 - Defensive coding
 - Code smells
