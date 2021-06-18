@@ -1,5 +1,5 @@
 # reproducible-data-analysis
-A repository holding materials for a half day reproducibility course. The presentation for this course is [here](https://github.com/ben18785/simulated-data/blob/main/documents/reproducible_analysis.html).
+A repository holding materials for a half day reproducibility course. The presentation for this course is [here](https://github.com/ben18785/reproducible-data-analysis/blob/main/presentations/reproducible_analysis.html).
 
 # Recognising code smells
 The first part of the course revolves around the concept of [code smells](https://refactoring.guru/refactoring/smells).
