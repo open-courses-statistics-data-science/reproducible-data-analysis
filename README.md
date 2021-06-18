@@ -1,5 +1,5 @@
 # reproducible-data-analysis
-A repository holding materials for a half day reproducibility course.
+A repository holding materials for a half day reproducibility course. The presentation for this course is [here](https://github.com/ben18785/simulated-data/blob/main/documents/reproducible_analysis.html).
 
 # Recognising code smells
 The first part of the course revolves around the concept of [code smells](https://refactoring.guru/refactoring/smells).
@@ -36,3 +36,6 @@ The available data are:
 - [Inter-country data](https://github.com/ben18785/reproducible-data-analysis/blob/main/data/dist_cepii.csv): includes data on relationships between countries, for example the distances between them.
 
 Both the country level data and inter-country data are taken from the [CEPII GeoDist database](http://www.cepii.fr/pdf_pub/wp/2011/wp2011-25.pdf).
+
+# Rebuilding presentation
+(Note mainly to self.) If you want to rebuild the presentation run: `pandoc -t revealjs -s -o reproducible_analysis.html reproducible_analysis.md -V revealjs-url=reveal.js/ -V  theme=oxrse`
