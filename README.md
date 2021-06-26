@@ -39,3 +39,8 @@ Both the country level data and inter-country data are taken from the [CEPII Geo
 
 # Rebuilding presentation
 (Note mainly to self.) If you want to rebuild the presentation run: `pandoc -t revealjs -s -o reproducible_analysis.html reproducible_analysis.md -V revealjs-url=reveal.js/ -V  theme=oxrse`
+
+# Notes for next time
+- Exercise is too complex for a half-day lecture: either make a simpler exercise for the half day course or make the course a full day
+- Create a makefile specific problem where we walk through using it
+- Talk about functional programming and data analysis: e.g. tidyverse and pandas
